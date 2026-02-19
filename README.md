@@ -11,4 +11,12 @@
 ---
 
 ## Структура проекта
-
+var7/
+├─ go.mod
+├─ README.md
+├─ cmd/
+│  └─ app/
+│     └─ main.go
+└─ pkg/
+   └─ fueltrip/
+      └─ fueltrip.go
